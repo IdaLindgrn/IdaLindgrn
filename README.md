@@ -1,16 +1,16 @@
-### Hey! 👋
+## Hey! 👋
 
-## About Me
+### About Me
 
 I'm Ida Lindgren!
 
 I'm a passionate front-end developer student at Medieinstitutet in Alvik, Stockholm. I thrive on the creative aspects of design and find joy in solving complex problems through coding. My journey in the world of web development is just beginning, and I'm excited to blend my love for design with my problem-solving skills to create user-friendly and visually appealing websites.
 
-## Projects
+### Projects
 
 Portfolio: [Link](https://github.com/IdaLindgrn/Portfolio)
 
-## Contact
+### Contact
 
 ✉️ Mail: ida.lindgren@medieinstitutet.se
 
