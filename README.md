@@ -1,3 +1,5 @@
+
+<img src=""/>
 <p align="center">
  <img src="https://badges.pufler.dev/visits/idalindgrn/idalindgrn"/> 
  <img src="https://badges.pufler.dev/years/idalindgrn"/> 
@@ -12,8 +14,9 @@ I'm Ida Lindgren!
 
 I'm a passionate front-end developer student at Medieinstitutet in Stockholm. I thrive on the creative aspects of design and find joy in solving complex problems through coding. My journey in the world of web development is just beginning, and I'm excited to blend my love for design with my problem-solving skills to create user-friendly and visually appealing websites.
 
-### Knowledge
 
+ ### Knowledge
+ 
 <p align="left">
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
@@ -31,7 +34,6 @@ I'm a passionate front-end developer student at Medieinstitutet in Stockholm. I 
 * Mail: ida.lindgren@medieinstitutet.se
 * Personal site: ***coming soon***
 * LinkedIn: [https://www.linkedin.com/ida-lindgren](https://www.linkedin.com/in/ida-lindgren-0b6099207/)
-
 
 <!--
 **IdaLindgrn/IdaLindgrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
