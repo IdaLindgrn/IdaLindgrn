@@ -9,13 +9,13 @@
 
 
 
-### About Me 🎨
+## About Me 🎨
 
 
 I'm a passionate front-end developer student at Medieinstitutet in Stockholm. I thrive on the creative aspects of design and find joy in solving complex problems through coding. My journey in the world of web development is just beginning, and I'm excited to blend my love for design with my problem-solving skills to create user-friendly and visually appealing websites.
 
 
- ### Knowledge
+ ## Knowledge
  
 <p align="left">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -29,7 +29,9 @@ I'm a passionate front-end developer student at Medieinstitutet in Stockholm. I 
  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
 
-### Get in touch
+
+
+## Get in touch <img width="50px" src="https://github.com/IdaLindgrn/IdaLindgrn/blob/main/assets/character.gif"/>
 
 * Mail: ida.lindgren@medieinstitutet.se
 * Personal site: ***coming soon***
