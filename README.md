@@ -1,5 +1,5 @@
 
-<img src=""/>
+<img src="https://github.com/IdaLindgrn/IdaLindgrn/blob/main/assets/banner-with-text.gif"/>
 <p align="center">
  <img src="https://badges.pufler.dev/visits/idalindgrn/idalindgrn"/> 
  <img src="https://badges.pufler.dev/years/idalindgrn"/> 
