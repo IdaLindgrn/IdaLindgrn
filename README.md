@@ -9,7 +9,7 @@
 
 
 
-## About Me 🎨
+## About Me 
 
 
 I'm a passionate front-end developer student at Medieinstitutet in Stockholm. I thrive on the creative aspects of design and find joy in solving complex problems through coding. My journey in the world of web development is just beginning, and I'm excited to blend my love for design with my problem-solving skills to create user-friendly and visually appealing websites.
@@ -24,9 +24,9 @@ I'm a passionate front-end developer student at Medieinstitutet in Stockholm. I 
   <img src="https://img.shields.io/badge/-TypeScript-354f76?style=flat-square&logo=typescript"/>
   <img src="https://img.shields.io/badge/-React-377a8a?style=flat-square&logo=react"/>
   <img src="https://img.shields.io/badge/-Vue-428981?style=flat-square&logo=vuedotjs"/>
+  <img src="https://img.shields.io/badge/-MongoDB-2f5f26?style=flat-square&logo=mongodb"/>
   <img src="https://img.shields.io/badge/-Nodejs-1b5745?style=flat-square&logo=Node.js"/>
- <img src="https://img.shields.io/badge/-MongoDB-2f5f26?style=flat-square&logo=mongodb"/>
- <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
 
 
