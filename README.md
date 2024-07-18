@@ -1,4 +1,4 @@
-<img src="https://github.com/IdaLindgrn/IdaLindgrn/blob/main/assets/banner-with-text.gif"/>
+<img src="https://github.com/IdaLindgrn/IdaLindgrn/blob/main/assets/banner.gif"/>
 
 <p align="center">
  <img src="https://badges.pufler.dev/visits/idalindgrn/idalindgrn"/>   
