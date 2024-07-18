@@ -25,10 +25,7 @@ A creative and experienced Frontend developer with an Advanced Higher Vocational
 <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-web-services&logoColor=white"/> <img src="https://img.shields.io/badge/-GIT-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/-Blender-E87D0D?style=flat-square&logo=blender&logoColor=white"/> 
 
 ### Interests
-<img src="https://img.shields.io/badge/-Graphic%20Design-FF5733?style=flat-square"/> Graphic Design  
-<img src="https://img.shields.io/badge/-Problem%20Solving-FFD700?style=flat-square"/> Problem-solving  
-<img src="https://img.shields.io/badge/-Responsive%20Web%20Design-33C7FF?style=flat-square"/> Responsive web design  
-<img src="https://img.shields.io/badge/-APIs-FF6F61?style=flat-square"/> APIs  
+<img src="https://img.shields.io/badge/-Graphic%20Design-FF5733?style=flat-square"/> <img src="https://img.shields.io/badge/-Problem%20Solving-FFD700?style=flat-square"/> Problem-solving <img src="https://img.shields.io/badge/-Responsive%20Web%20Design-33C7FF?style=flat-square"/> <img src="https://img.shields.io/badge/-APIs-FF6F61?style=flat-square"/>   
 
 <!--  #47A248
 <p align="left">
