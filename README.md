@@ -22,17 +22,15 @@ A creative and experienced Frontend developer with an Advanced Higher Vocational
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/> <img src="https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/-React Native-61DAFB?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/-Expo-000000?style=flat-square&logo=Expo&logoColor=white"/>  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white"/> <img src="https://img.shields.io/badge/-Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/-C-9567cf?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
 
 ### Tools/Services
-<img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-web-services&logoColor=white"/> <img src="https://img.shields.io/badge/-GIT-F05032?style=flat-square&logo=git&logoColor=white"/> 
-<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> SQL, MongoDB  
-<img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> Figma, Blender  
-#4479A1 MySQL
+<img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-web-services&logoColor=white"/> <img src="https://img.shields.io/badge/-GIT-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/-Blender-E87D0D?style=flat-square&logo=blender&logoColor=white"/> 
+
 ### Interests
 <img src="https://img.shields.io/badge/-Graphic%20Design-FF5733?style=flat-square"/> Graphic Design  
 <img src="https://img.shields.io/badge/-Problem%20Solving-FFD700?style=flat-square"/> Problem-solving  
 <img src="https://img.shields.io/badge/-Responsive%20Web%20Design-33C7FF?style=flat-square"/> Responsive web design  
 <img src="https://img.shields.io/badge/-APIs-FF6F61?style=flat-square"/> APIs  
 
-<!--  
+<!--  #47A248
 <p align="left">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
