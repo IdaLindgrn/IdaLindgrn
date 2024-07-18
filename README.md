@@ -16,24 +16,25 @@ A creative and experienced Frontend developer with an Advanced Higher Vocational
 
 
 <!-- ## Knowledge -->
- ## Skills and Interests
+## Skills and Interests
 
 ### Languages/Frameworks
-- HTML, CSS, SCSS, Tailwind
-- JavaScript, TypeScript
-- React.js, React Native, Vue.js, Three.js
-- Node.js, C#, Python, Expo
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> HTML, CSS, SCSS, Tailwind  
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> JavaScript, TypeScript  
+<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white"/> React.js, React Native, Vue.js, Three.js  
+<img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> Node.js, C#, Python, Expo  
 
 ### Tools/Services
-- AWS, GIT
-- SQL, MongoDB
-- Figma, Blender
+<img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/> AWS, GIT  
+<img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white"/> SQL, MongoDB  
+<img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> Figma, Blender  
 
 ### Interests
-- Graphic Design
-- Problem-solving
-- Responsive web design
-- APIs
+<img src="https://img.shields.io/badge/-Graphic%20Design-FF5733?style=flat-square"/> Graphic Design  
+<img src="https://img.shields.io/badge/-Problem%20Solving-FFD700?style=flat-square"/> Problem-solving  
+<img src="https://img.shields.io/badge/-Responsive%20Web%20Design-33C7FF?style=flat-square"/> Responsive web design  
+<img src="https://img.shields.io/badge/-APIs-FF6F61?style=flat-square"/> APIs  
+
 <!--  
 <p align="left">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
