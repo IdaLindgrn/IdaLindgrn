@@ -15,8 +15,26 @@
 A creative and experienced Frontend developer with an Advanced Higher Vocational Education Diploma from Medieinstitutet - Stockholm. I have wide knowledge within applications, websites and extensions. Currently, I am seeking opportunities within a developing field.
 
 
- ## Knowledge
- 
+<!-- ## Knowledge -->
+ ## Skills and Interests
+
+### Languages/Frameworks
+- HTML, CSS, SCSS, Tailwind
+- JavaScript, TypeScript
+- React.js, React Native, Vue.js, Three.js
+- Node.js, C#, Python, Expo
+
+### Tools/Services
+- AWS, GIT
+- SQL, MongoDB
+- Figma, Blender
+
+### Interests
+- Graphic Design
+- Problem-solving
+- Responsive web design
+- APIs
+<!--  
 <p align="left">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
@@ -28,6 +46,7 @@ A creative and experienced Frontend developer with an Advanced Higher Vocational
   <img src="https://img.shields.io/badge/-Nodejs-1b5745?style=flat-square&logo=Node.js"/>
   <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
+-->
 
 
 
