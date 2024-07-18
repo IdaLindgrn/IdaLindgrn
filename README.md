@@ -19,11 +19,10 @@ A creative and experienced Frontend developer with an Advanced Higher Vocational
 ## Skills and Interests
 
 ### Languages/Frameworks
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/> <img src="https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>SCSS, Tailwind  #CC6699
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> JavaScript, TypeScript  
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/> <img src="https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=typescript"/> <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript"/> 
 <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white"/> React.js, React Native, Vue.js, Three.js  
 <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> Node.js, C#, Python, Expo  
-
+#F7DF1E
 ### Tools/Services
 <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/> AWS, GIT  
 <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white"/> SQL, MongoDB  
