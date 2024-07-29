@@ -40,8 +40,6 @@ Graphic Design, Problem-solving, Responsive web design, APIs
 </p>
 -->
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=IdaLindgrn&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true" alt="GitHub Streak" /></a>
-
 ## Get in touch <img width="50px" src="https://github.com/IdaLindgrn/IdaLindgrn/blob/main/assets/character.gif"/>
 
 * Mail: ida-lindgren@hotmail.com
