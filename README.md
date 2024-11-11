@@ -43,7 +43,7 @@ Graphic Design, Problem-solving, Responsive web design, APIs
 ## Get in touch <img width="50px" src="https://github.com/IdaLindgrn/IdaLindgrn/blob/main/assets/character.gif"/>
 
 * Mail: ida-lindgren@hotmail.com
-* Personal site: [ida-lindgren.com](https://ida-lindgren.netlify.app/)
+* Personal site: [ida-lindgren.com](https://idas-gameboy.netlify.app/)
 * LinkedIn: [linkedin.com/ida-lindgren](https://www.linkedin.com/in/ida-lindgren-0b6099207/)
 
 
