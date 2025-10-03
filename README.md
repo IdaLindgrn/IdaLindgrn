@@ -1,14 +1,5 @@
 <img src="https://github.com/IdaLindgrn/IdaLindgrn/blob/main/assets/banner.gif"/>
 
-<p align="center">
- <img src="https://badges.pufler.dev/visits/idalindgrn/idalindgrn"/>   
- <img src="https://badges.pufler.dev/years/idalindgrn"/> 
- <img src="https://badges.pufler.dev/commits/monthly/idalindgrn" />
- <img src="https://badges.pufler.dev/repos/idalindgrn"/>
-</p>
-
-
-
 ## About Me 
 
 
