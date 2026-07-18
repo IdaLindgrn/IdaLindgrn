@@ -9,13 +9,34 @@ I am a Fullstack Developer with a background in Python, Django, cloud systems, a
 
 ## Skills and Interests
 
-### Languages/Frameworks
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/> <img src="https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/-JavaScript-E79537?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/-React.js-33C7FF?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/-React Native-33C7FF?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/-Expo-000000?style=flat-square&logo=Expo&logoColor=white"/>  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white"/> <img src="https://img.shields.io/badge/-Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/-C%23-9567cf?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
+### Backend
+<p>
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/-REST%20APIs-009688?style=flat-square"/>
+<img src="https://img.shields.io/badge/-Redpanda-AE1C28?style=flat-square"/>
+<img src="https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/-TimescaleDB-FDB515?style=flat-square&logo=timescale&logoColor=black"/>
+</p>
 
-### Tools/Services
-<img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-web-services&logoColor=white"/> <img src="https://img.shields.io/badge/-GIT-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/-Blender-E87D0D?style=flat-square&logo=blender&logoColor=white"/> 
+### Frontend
+<p>
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+</p>
 
-
+### Infrastructure
+<p>
+<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/-GitLab%20CI%2FCD-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
+<img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/-OPA-7D4CDB?style=flat-square"/>
+</p>
+  
 ## Get in touch <img width="50px" src="https://github.com/IdaLindgrn/IdaLindgrn/blob/main/assets/character.gif"/>
 
 * Mail: ida-lindgren@hotmail.com
