@@ -4,7 +4,7 @@
 ## About Me 
 
 
-A creative and experienced Frontend developer with an Advanced Higher Vocational Education Diploma from Medieinstitutet - Stockholm. I have wide knowledge within applications, websites and extensions. Currently, I am seeking opportunities within a developing field.
+I am a Fullstack Developer with a background in Python, Django, cloud systems, and event-driven architecture. 
 
 
 ## Skills and Interests
@@ -14,8 +14,6 @@ A creative and experienced Frontend developer with an Advanced Higher Vocational
 
 ### Tools/Services
 <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-web-services&logoColor=white"/> <img src="https://img.shields.io/badge/-GIT-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/-Blender-E87D0D?style=flat-square&logo=blender&logoColor=white"/> 
-### Interests
-Graphic Design, Problem-solving, Responsive web design, APIs
 
 
 ## Get in touch <img width="50px" src="https://github.com/IdaLindgrn/IdaLindgrn/blob/main/assets/character.gif"/>
