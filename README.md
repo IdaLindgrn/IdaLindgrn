@@ -1,12 +1,12 @@
 <img src="https://github.com/IdaLindgrn/IdaLindgrn/blob/main/assets/banner.gif"/>
 
+
 ## About Me 
 
 
 A creative and experienced Frontend developer with an Advanced Higher Vocational Education Diploma from Medieinstitutet - Stockholm. I have wide knowledge within applications, websites and extensions. Currently, I am seeking opportunities within a developing field.
 
 
-<!-- ## Knowledge -->
 ## Skills and Interests
 
 ### Languages/Frameworks
@@ -17,19 +17,6 @@ A creative and experienced Frontend developer with an Advanced Higher Vocational
 ### Interests
 Graphic Design, Problem-solving, Responsive web design, APIs
 
-<!-- 
-<p align="left">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
-  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
-  <img src="https://img.shields.io/badge/-TypeScript-354f76?style=flat-square&logo=typescript"/>
-  <img src="https://img.shields.io/badge/-React-377a8a?style=flat-square&logo=react"/>
-  <img src="https://img.shields.io/badge/-Vue-428981?style=flat-square&logo=vuedotjs"/>
-  <img src="https://img.shields.io/badge/-MongoDB-2f5f26?style=flat-square&logo=mongodb"/>
-  <img src="https://img.shields.io/badge/-Nodejs-1b5745?style=flat-square&logo=Node.js"/>
-  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
-</p>
--->
 
 ## Get in touch <img width="50px" src="https://github.com/IdaLindgrn/IdaLindgrn/blob/main/assets/character.gif"/>
 
@@ -37,18 +24,3 @@ Graphic Design, Problem-solving, Responsive web design, APIs
 * Personal site: [ida-lindgren.com](https://idas-gameboy.netlify.app/)
 * LinkedIn: [linkedin.com/ida-lindgren](https://www.linkedin.com/in/ida-lindgren-0b6099207/)
 
-
-<!--
-**IdaLindgrn/IdaLindgrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
